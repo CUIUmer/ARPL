@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ARToolKit5-Unity/Example Scenes/CubemarkerScene.unity
+    guid: 91e0064a3efe34200aa60dba3775ddbf
+  - enabled: 0
+    path: Assets/ARToolKit5-Unity/Example Scenes/SimpleNFTScene.unity
+    guid: 75b9090f342f146569d92a956d494d08
+  - enabled: 0
+    path: Assets/Scenes/Menu/backup/Home.unity
+    guid: a3c4e0f448a4deb4abf533efb8f6bbe7
+  - enabled: 1
+    path: Assets/Scenes/Menu/Home - 2.unity
+    guid: a9504fce76829f3439d3bf34fa96917e
+  - enabled: 1
+    path: Assets/Scenes/Menu/Signup.unity
+    guid: 01954692c01c2ff428ec26ba28796a59
+  - enabled: 1
+    path: Assets/Scenes/Menu/Signin.unity
+    guid: 5de413928c7ced34ab8d0b72cb98e30c
+  - enabled: 1
+    path: Assets/Scenes/Menu/Experiment.unity
+    guid: 7f08ef17d3b8f0e49a04d83c698a0b07
+  - enabled: 1
+    path: Assets/Scenes/Focal Length.unity
+    guid: e9e2e05dd8abf96459e3d061dd2ee033
+  - enabled: 1
+    path: Assets/Scenes/Focal Length Guide.unity
+    guid: 7c86ff5b26c19b04f9d08f4448040bbe
+  - enabled: 1
+    path: Assets/Scenes/Focal Length Submit.unity
+    guid: 86036fa4b16d02d4d8c49f0ec64b9c7c
+  - enabled: 1
+    path: Assets/Scenes/Law of Reflection.unity
+    guid: 02f225411b00a594fada750ca67c28ea
+  - enabled: 1
+    path: Assets/Scenes/Law of Reflection Guide.unity
+    guid: 3f5186264f9a55146905d212fd066ccb
+  - enabled: 1
+    path: Assets/Scenes/Law of Reflection Submit.unity
+    guid: 9d48c8eafb3370741bbb318eb8b85885
+  - enabled: 1
+    path: Assets/Scenes/Magnification.unity
+    guid: 64de0f23b4fdfa244b8e28e8929fb326
+  - enabled: 1
+    path: Assets/Scenes/Magnification Guide.unity
+    guid: ceeb36bdd3c0c5349929745941a417bb
+  - enabled: 1
+    path: Assets/Scenes/Magnification Submit.unity
+    guid: 3d3624b64e7a31747a537bbc47207838
+  m_configObjects: {}
